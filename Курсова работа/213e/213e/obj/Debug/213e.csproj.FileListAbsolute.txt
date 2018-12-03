@@ -1,0 +1,7 @@
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\bin\Debug\213e.exe.config
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\bin\Debug\213e.exe
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\bin\Debug\213e.pdb
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\obj\Debug\213e.csprojAssemblyReference.cache
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\obj\Debug\213e.csproj.CoreCompileInputs.cache
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\obj\Debug\213e.exe
+C:\Users\Acer-pc\Desktop\Курсова работа\213e\213e\obj\Debug\213e.pdb
